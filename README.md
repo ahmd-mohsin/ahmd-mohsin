@@ -4,6 +4,8 @@
 - ⚡ I am Passionate about Machine Leanring, Reinforcement Learning and Wireless Communicatons ヾ(≧ ▽ ≦)ゝ
 - 🔭 I’m looking forward to collaborate on anything I find interesting
 
+[<img align="right" width="250" height="250" src="https://i.ibb.co/m6dQXbt/Whats-App-Image-2024-01-14-at-2-51-02-AM-removebg-preview.png"/>](https://github.com/ahmd-mohsin)
+
 ##  Languages & Tools I Use
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
