@@ -5,7 +5,7 @@
 - 📖 I'm an undergrad Research Assistant at Information Processing and Transmission Lab (IPT Lab)
 - ⚡ I am Passionate about Machine Leanring, Reinforcement Learning and Wireless Communicatons ヾ(≧ ▽ ≦)ゝ
 - 🔭 I’m looking forward to collaborate on anything I find interesting
-- 🐸 I Love frogs.
+- 🐸 I Love frogs and doctors 🩺
 
 
 
