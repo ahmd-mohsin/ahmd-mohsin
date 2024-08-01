@@ -2,7 +2,7 @@
 
 [<img align="right" width="250" height="250" src="https://i.ibb.co/m6dQXbt/Whats-App-Image-2024-01-14-at-2-51-02-AM-removebg-preview.png"/>](https://github.com/ahmd-mohsin)
 
-- 📖 I'm an undergrad Research Assistant at Information Processing and Transmission Lab (IPT Lab)
+- 📖 I'm Graduate Researcher @ Stanford University
 - ⚡ I am Passionate about Machine Leanring, Reinforcement Learning and Wireless Communicatons ヾ(≧ ▽ ≦)ゝ
 - 🔭 I’m looking forward to collaborate on anything I find interesting
 - 🐸 I Love frogs and doctors 🩺
