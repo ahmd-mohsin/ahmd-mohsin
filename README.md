@@ -72,7 +72,7 @@ My research blends theory with impactful systems, and my papers span top ML/AI a
 | 2026 | **Neural Gaussian Radio Fields for Channel Estimation** | TMLR 2026 |
 | 2025 | **Structured Prompting for Robust Evaluation** | (co-authored paper) |
 
-> 🔎 *Full list available on my website & CV.* :contentReference[oaicite:4]{index=4}
+> 🔎 *Full list available on my website & CV.* 
 
 ---
 
@@ -87,7 +87,7 @@ My research blends theory with impactful systems, and my papers span top ML/AI a
 - IEEE Best Workshop Paper Award  
 - IEEE FIT Best Main Conference Paper Award  
 - Area Chair: NeurIPS 2025, ICASSP 2026  
-- Reviewer: ICML, NeurIPS, ICLR, KDD, AAAI :contentReference[oaicite:5]{index=5}
+- Reviewer: ICML, NeurIPS, ICLR, KDD, AAAI 
 
 ---
 
@@ -101,7 +101,7 @@ My research blends theory with impactful systems, and my papers span top ML/AI a
 🗓 **Jan 2025** — 2 papers accepted @ AAAI 2025  
 🗓 **Dec 2024** — 2 papers accepted @ IEEE ICASSP 2025  
 🗓 **Apr 2024** — Rector’s Gold Medal (Best Undergraduate Thesis)  
-🗓 **Jan 2024** — PhD Admission (Stanford Graduate Fellowship) :contentReference[oaicite:6]{index=6}
+🗓 **Jan 2024** — PhD Admission (Stanford Graduate Fellowship)
 
 ---
 
