@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Muhammad Ahmed Mohsin</h1>
 
 <p align="center">
-  <strong>Ph.D. Student / Graduate Researcher @ Stanford AI Lab</strong><br>
+  <strong>Graduate Researcher @ Stanford AI Lab</strong><br>
   <em>LLM Post-Training • Agentic AI • Reinforcement Learning • Wireless ML</em>
 </p>
 
@@ -26,7 +26,7 @@
 
 <img align="right" width="250" src="https://i.ibb.co/m6dQXbt/Whats-App-Image-2024-01-14-at-2-51-02-AM-removebg-preview.png" />
 
-I am a **Ph.D. researcher at Stanford AI Lab (SAIL)** co-advised by **Dr. Emily Fox** and **Dr. John M. Cioffi**, focusing on:
+I am a researcher at Stanford AI Lab (SAIL)** co-advised by **Dr. Emily Fox** and **Dr. John M. Cioffi**, focusing on:
 
 - 🧠 **LLM Post-Training & Inference** — preference optimization, alignment, and reasoning calibration  
 - 🤖 **Internet of Evolving Agents** — emergent, self-organizing multi-agent ecosystems  
