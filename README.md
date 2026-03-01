@@ -43,19 +43,19 @@ My research blends theory with impactful systems, and my papers span top ML/AI a
 - Continuous-Utility Direct Preference Optimization (CU-DPO)  
 - Active Bayesian Preference Models  
 - Adaptive inference strategies for reasoning accuracy  
-- RL for high-diversity generation :contentReference[oaicite:1]{index=1}
+- RL for high-diversity generation 
 
 ### 🤖 Internet of Evolving Agents
 - Self-evolving multi-agent systems  
 - Bayesian reputation and dynamic team formation  
 - Social graph-based coordination  
-- Emergent specialization (NeurIPS 2026, In Progress) :contentReference[oaicite:2]{index=2}
+- Emergent specialization (NeurIPS 2026, In Progress)
 
 ### 📡 Applied Reinforcement Learning & Wireless ML
 - GNN-accelerated SDP solvers  
 - Neural Gaussian Radio Fields  
 - RL for non-stationary decision systems  
-- Channel estimation & optimization :contentReference[oaicite:3]{index=3}
+- Channel estimation & optimization 
 
 ---
 
