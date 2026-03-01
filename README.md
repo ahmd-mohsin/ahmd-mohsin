@@ -33,7 +33,6 @@ I am a researcher at Stanford AI Lab (SAIL)** co-advised by **Dr. Emily Fox** an
 - 📡 **Reinforcement Learning & Wireless ML** — dynamic decision-making and optimization  
 - ⚙️ **Adaptive Test-Time Compute for Reasoning Models**  
 
-My research blends theory with impactful systems, and my papers span top ML/AI and communication venues — from ICML and CoLM to KDD and TMLR. :contentReference[oaicite:0]{index=0}
 
 ---
 
