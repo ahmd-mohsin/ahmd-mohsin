@@ -6,12 +6,12 @@
 
 <p align="center">
   <a href="https://ahmd-mohsin.github.io/">
-    <img width="100%" src="https://ahmd-mohsin.github.io/og/readme-banner.png" alt="Muhammad Ahmed Mohsin" />
+    <img width="100%" src="https://ahmd-mohsin.github.io/og/readme-banner.png?v=2" alt="Muhammad Ahmed Mohsin" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1100&color=F48FB1&center=true&vCenter=true&width=760&lines=Reinforcement+learning+for+verifiable+rewards;Preference+optimization+%26+test-time+scaling;Agentic+systems+%26+coding+agents;AI+alignment+%26+benchmarking" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1100&color=F48FB1&center=true&vCenter=true&width=820&height=42&lines=RL+for+verifiable+rewards;Preference+optimization+%26+test-time+scaling;Agentic+systems+%26+coding+agents;AI+alignment+%26+benchmarking" />
 </p>
 
 <p align="center">
