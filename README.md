@@ -1,17 +1,9 @@
-<!-- =========================================================
-     Muhammad Ahmed Mohsin — GitHub profile README
-     Pink + black, matching ahmd-mohsin.github.io
-     Banner is served from the Pages site (works from any repo).
-     ========================================================= -->
-
 <p align="center">
-  <a href="https://ahmd-mohsin.github.io/">
-    <img width="100%" src="https://ahmd-mohsin.github.io/og/readme-banner.png?v=2" alt="Muhammad Ahmed Mohsin" />
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070b0a,45:6e3f57,100:f48fb1&height=190&section=header&text=Muhammad%20Ahmed%20Mohsin&fontColor=f7ecf1&fontSize=44&fontAlignY=40&desc=Graduate%20Researcher%20@%20Stanford%20AI%20Lab&descAlignY=62&descColor=e2cdd6&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1100&color=F48FB1&center=true&vCenter=true&width=820&height=42&lines=RL+for+verifiable+rewards;Preference+optimization+%26+test-time+scaling;Agentic+systems+%26+coding+agents;AI+alignment+%26+benchmarking" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1100&color=F48FB1&center=true&vCenter=true&width=820&height=45&lines=RL+for+verifiable+rewards;Preference+optimization+%26+test-time+scaling;Agentic+systems+%26+coding+agents;AI+alignment+%26+benchmarking" />
 </p>
 
 <p align="center">
