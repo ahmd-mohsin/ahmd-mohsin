@@ -1,17 +1,20 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070b0a,45:6e3f57,100:f48fb1&height=190&section=header&text=Muhammad%20Ahmed%20Mohsin&fontColor=f7ecf1&fontSize=44&fontAlignY=40&desc=Graduate%20Researcher%20@%20Stanford%20AI%20Lab&descAlignY=62&descColor=e2cdd6&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:8C1515,100:6f1010&height=210&section=header&text=Muhammad%20Ahmed%20Mohsin&fontColor=ffffff&fontSize=40&fontAlign=60&fontAlignY=38&desc=Graduate%20Researcher%20@%20Stanford%20AI%20Lab&descAlign=60&descAlignY=58&descColor=ffffff&descSize=17&animation=fadeIn" alt="Muhammad Ahmed Mohsin — Graduate Researcher @ Stanford AI Lab" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1100&color=F48FB1&center=true&vCenter=true&width=820&height=45&lines=RL+for+verifiable+rewards;Preference+optimization+%26+test-time+scaling;Agentic+systems+%26+coding+agents;AI+alignment+%26+benchmarking" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1100&color=8C1515&background=FFFFFF&center=true&vCenter=true&width=820&height=45&lines=RL+for+verifiable+rewards;Preference+optimization+%26+test-time+scaling;Agentic+systems+%26+coding+agents;AI+alignment+%26+benchmarking" alt="RL for verifiable rewards · Preference optimization & test-time scaling · Agentic systems & coding agents · AI alignment & benchmarking" />
 </p>
 
 <p align="center">
-  <a href="https://ahmd-mohsin.github.io/"><img src="https://img.shields.io/badge/Portfolio-ahmd--mohsin.github.io-f48fb1?style=for-the-badge&labelColor=070b0a" /></a>
-  <a href="https://alexein.ai/"><img src="https://img.shields.io/badge/Building-alexein.ai-ff85c0?style=for-the-badge&labelColor=070b0a" /></a>
-  <a href="mailto:muahmed@stanford.edu"><img src="https://img.shields.io/badge/Email-Stanford-c79bad?style=for-the-badge&logo=gmail&logoColor=070b0a&labelColor=070b0a" /></a>
-  <a href="https://scholar.google.co.uk/citations?user=ccxOv_QAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-Publications-b07f95?style=for-the-badge&logo=googlescholar&logoColor=070b0a&labelColor=070b0a" /></a>
-  <a href="https://twitter.com/ahmedmohsin7338"><img src="https://img.shields.io/badge/X-@ahmedmohsin7338-8a6a78?style=for-the-badge&logo=x&logoColor=070b0a&labelColor=070b0a" /></a>
+  <a href="https://ahmd-mohsin.github.io/"><img src="https://img.shields.io/badge/Portfolio-ahmd--mohsin.github.io-8C1515?style=for-the-badge&labelColor=1a1a1a&logoColor=white" alt="Portfolio — ahmd-mohsin.github.io" /></a>
+  <a href="https://alexein.ai/"><img src="https://img.shields.io/badge/Building-alexein.ai-8C1515?style=for-the-badge&labelColor=1a1a1a&logoColor=white" alt="Building — alexein.ai" /></a>
+</p>
+
+<p align="center">
+  <a href="mailto:muahmed@stanford.edu"><img src="https://img.shields.io/badge/Email-Stanford-8C1515?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email — Stanford" /></a>
+  <a href="https://scholar.google.co.uk/citations?user=ccxOv_QAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-Publications-8C1515?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1a1a" alt="Scholar — Publications" /></a>
+  <a href="https://twitter.com/ahmedmohsin7338"><img src="https://img.shields.io/badge/X-@ahmedmohsin7338-8C1515?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" alt="X — @ahmedmohsin7338" /></a>
 </p>
 
 <br/>
@@ -47,7 +50,9 @@ venues NeurIPS'26 · EMNLP'26 · ICLR'27
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070b0a,50:f48fb1,100:070b0a&height=3" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:8C1515,100:ffffff&height=2" width="100%" alt="" />
 
 ## Research
 
@@ -99,7 +104,9 @@ methodology that makes alignment progress observable and reproducible.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070b0a,50:f48fb1,100:070b0a&height=3" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:8C1515,100:ffffff&height=2" width="100%" alt="" />
 
 ## Selected Publications
 
@@ -120,12 +127,15 @@ methodology that makes alignment progress observable and reproducible.
 
 <sub>Full list, figures, and blog posts on **[ahmd-mohsin.github.io](https://ahmd-mohsin.github.io/)**.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070b0a,50:f48fb1,100:070b0a&height=3" width="100%"/>
+<br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:8C1515,100:ffffff&height=2" width="100%" alt="" />
 
 ## Honors & Service
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmd-mohsin&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmd-mohsin&theme=flat&no-frame=true&no-bg=true&margin-w=14&margin-h=14&column=4" alt="GitHub profile trophies" />
 </p>
 
 <table>
@@ -151,39 +161,43 @@ methodology that makes alignment progress observable and reproducible.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070b0a,50:f48fb1,100:070b0a&height=3" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:8C1515,100:ffffff&height=2" width="100%" alt="" />
 
 ## Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,cuda,linux,docker,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,cuda,linux,docker,git,vscode&theme=light" alt="Python, C++, C, PyTorch, TensorFlow, CUDA, Linux, Docker, Git, VS Code" />
 </p>
 
 <p align="center">
 <code>Reinforcement Learning</code> · <code>LLM Post-Training</code> · <code>Preference Optimization</code> · <code>Test-Time Scaling</code> · <code>Agentic Systems</code> · <code>GRPO / LoRA / ZeRO</code>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070b0a,50:f48fb1,100:070b0a&height=3" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:8C1515,100:ffffff&height=2" width="100%" alt="" />
 
 ## Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmd-mohsin&show_icons=true&hide_border=true&bg_color=070b0a&title_color=f48fb1&icon_color=ff85c0&text_color=e2cdd6" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmd-mohsin&hide_border=true&background=070b0a&stroke=6e3f57&ring=f48fb1&fire=ff85c0&currStreakLabel=f48fb1&sideLabels=e2cdd6&dates=8a6a78&currStreakNum=f7ecf1&sideNums=f7ecf1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmd-mohsin&show_icons=true&hide_border=true&bg_color=ffffff&title_color=8C1515&icon_color=8C1515&text_color=1a1a1a" alt="Muhammad Ahmed Mohsin's GitHub statistics" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmd-mohsin&hide_border=true&background=ffffff&stroke=d4d4d8&ring=8C1515&fire=8C1515&currStreakLabel=8C1515&sideLabels=4b5563&dates=9a9a9a&currStreakNum=1a1a1a&sideNums=1a1a1a" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmd-mohsin&layout=compact&hide_border=true&bg_color=070b0a&title_color=f48fb1&text_color=e2cdd6" />
+  <img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmd-mohsin&layout=compact&hide_border=true&bg_color=ffffff&title_color=8C1515&icon_color=8C1515&text_color=1a1a1a" alt="Most-used programming languages" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f48fb1,50:6e3f57,100:070b0a&height=130&section=footer&text=Building%20reliable%20reasoning%20models&fontColor=f7ecf1&fontSize=18&fontAlignY=68" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:8C1515,100:6f1010&height=130&section=footer&text=Building%20reliable%20reasoning%20models&fontColor=ffffff&fontSize=18&fontAlign=60&fontAlignY=75&animation=fadeIn" alt="Building reliable reasoning models" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmd-mohsin&style=flat&color=f48fb1&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=ahmd-mohsin&style=flat&color=8C1515&label=Profile+Views" alt="Profile Views" />
   &nbsp;
-  <a href="mailto:muahmed@stanford.edu"><img src="https://img.shields.io/badge/Let's_collaborate-f48fb1?style=flat&labelColor=070b0a" /></a>
+  <a href="mailto:muahmed@stanford.edu"><img src="https://img.shields.io/badge/Let's_collaborate-8C1515?style=flat&labelColor=1a1a1a&logoColor=white" alt="Let's collaborate" /></a>
 </p>
